@@ -1,0 +1,21 @@
+body{
+    background-image: url(background2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+img{
+    height: 60px;
+    width: 60px;
+}
+div{
+    height: 40px;
+    width: 40px;
+    margin: 10px;
+}
+.cima{
+    display: inline-block;
+
+}
+.baixo{
+    display: inline-block;
+}
