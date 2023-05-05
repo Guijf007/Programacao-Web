@@ -1,0 +1,19 @@
+.bloco{
+    display: block;
+    height: 50px;
+    width: 50px;
+    border: 3px solid black;
+}
+.inline{
+    display: inline-block;
+    height: 50px;
+    width: 50px;
+    border: 3px solid black;
+}
+.grid{
+    border: 5px dotted #0A2647;
+    display: grid;
+    width: 40%;
+    height: 50px;
+    grid-template-columns: 50px 2fr 1fr;
+}
